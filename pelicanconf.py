@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'I-Kang Ding'
-SITENAME = "I-Kang Ding's personal site"
+SITENAME = "I-Kang Ding's site"
 SITEURL = '.'
 THEME = '/Users/ikding/Documents/data_science/projects/pelican-themes/pelican-bootstrap3'
 
