@@ -1,9 +1,8 @@
-
 From materials scientist to data scientist
 ##########################################
 
-:date: 2015-04-18 20:33
-:tags: career
+:date: 2015-04-18
+:tags: career, data_science
 :slug: matsci-to-datasci-transition
 :authors: I-Kang Ding
 
