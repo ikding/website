@@ -8,7 +8,7 @@ Thoughts on my own career transition
 
 I had a deep introspection about my career transition recently, and this tweet matches my experience pretty well. I also would like to share some thoughts on this topic as a former Materials Sci PhD who transitioned from clean tech to data science / machine learning.
 
-My PI at was working on the physics and materials of advanced solar cells. By that virtue, almost all of us are driven by the virtue of clean energy and climate change impact, and spent 5+ years learning about the in-and-outs of solar cells.
+My PI at Stanford was working on the physics and materials of advanced solar cells. By that virtue, almost all of us are driven by the virtue of clean energy and climate change impact, and spent 5+ years learning about the in-and-outs of solar cells.
 
 When I entered the job market after my PhD in 2011, I joined a solar cell startup, wanting to put my passion on climate change and my domain expertise on solar cells to good use. But after clean tech 1.0 wave died in 2011-12, clean tech jobs were few and far in between in the SV. (trivia: Solyndra collapsed within a month or two after I started my new job).
 
