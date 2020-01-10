@@ -18,6 +18,7 @@ RELATIVE_URLS = True
 PATH = 'content'
 
 TIMEZONE = 'US/Eastern'
+DEFAULT_DATE_FORMAT = '%Y-%m-%d (%a)'
 
 DEFAULT_LANG = 'en'
 
