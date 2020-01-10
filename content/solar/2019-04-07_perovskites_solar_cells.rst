@@ -2,7 +2,7 @@ Nature article on perovskites solar cells
 #########################################
 
 :date: 2019-06-28
-:tags: climate
+:tags: solar
 :slug: perovskites-solar-cell-star-material
 :authors: I-Kang Ding
 

@@ -1,0 +1,30 @@
+Reveal.js for presentations
+###########################
+
+:date: 2016-04-06
+:tags: data_science
+:slug: reveal-js-presentations
+:authors: I-Kang Ding
+
+Question
+--------
+
+What tools do data scientists use for presentations?
+
+Answer
+------
+
+Quite a number of data scientists I know (myself included) use `reveal.js <https://github.com/hakimel/reveal.js/>`_. There are a few things that makes reveal.js nice to use:
+
+1. It integrates well with version control systems such as git.
+2. The fact that the presentation is hosted as a web page means that you don't need to send around PowerPoint files anymore. Just send around the link will be sufficient, and the audience will always access the newest version.
+3. It has a lot of bells and whistles built-in if you are willing to fiddle with html/css. Check out this `presentation on reveal.js <https://revealjs.com/#/>`_, made using, well, reveal.js.
+4. Editing the slide is actually pretty easy - most of the presentation I make can be handled with basic markdown syntax.
+
+With that said, it's not without its drawbacks:
+
+1. If your presentation has to be modified by people who are not used to coding, it can be a no-go right off the bat.
+2. If you have confidential info in your presentation and your company doesn't have a infrastructure to host these presentations (as in a secure internal web server), you may have to set up servers yourself...
+3. Exact adjustments and placements with multiple elements (text boxes, tables, images, ... etc) is much easier to do in PowerPoint.
+
+(Originally answered on quora: `What tools do data scientists use for presentations? <https://www.quora.com/What-tools-do-data-scientists-use-for-presentations/answer/I-Kang-Ding>`_)
