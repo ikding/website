@@ -4,8 +4,16 @@ from __future__ import unicode_literals
 
 AUTHOR = 'I-Kang Ding'
 SITENAME = "I-Kang Ding's site"
-SITEURL = '.'
 THEME = '/Users/ikding/Documents/data_science/projects/pelican-themes/pelican-bootstrap3'
+
+# Use this for local development
+SITEURL = '.'
+RELATIVE_URLS = True
+
+# Use this for publishing
+# pelican content -o ../ikding.github.io/ -s pelicanconf.py
+# SITEURL = 'https://ikding.github.io'
+# RELATIVE_URLS = False
 
 PATH = 'content'
 
@@ -40,9 +48,6 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
-
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
@@ -72,3 +77,6 @@ Stanford Engineering Ph.D.
 <br/>
 Interested in data science, renewable energy, and climate change.
 """
+
+# DISQUS_SITENAME = 'tsutsumi'
+GOOGLE_ANALYTICS = 'UA-19568221-4'
