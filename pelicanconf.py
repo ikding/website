@@ -79,5 +79,5 @@ Stanford Engineering Ph.D.
 Interested in data science, renewable energy, and climate change.
 """
 
-# DISQUS_SITENAME = 'tsutsumi'
+DISQUS_SITENAME = 'ikding'
 GOOGLE_ANALYTICS = 'UA-19568221-4'
