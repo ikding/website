@@ -3,7 +3,6 @@ Thoughts on my own career transition
 
 :date: 2019-12-28 23:33
 :tags: career
-:category: career
 :slug: thoughts-on-matsci-to-datasci
 :authors: I-Kang Ding
 
