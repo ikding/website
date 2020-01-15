@@ -7,6 +7,7 @@ SITENAME = "I-Kang Ding's site"
 THEME = '/Users/ikding/Documents/data_science/projects/pelican-themes/pelican-bootstrap3'
 
 # Use this for local development
+# pelican content
 SITEURL = '.'
 RELATIVE_URLS = True
 
