@@ -9,4 +9,4 @@ I originally hails from Taiwan and received my Ph.D. from Stanford University, a
 My Talks
 --------
 
-* [2019, PyCon]: `Lessons learned from building a community of Python users among thousands of analysts <https://www.youtube.com/watch?v=JcPwf4Ej12M>`_
+* [2019, PyCon]: `Lessons learned from building a community of Python users among thousands of analysts <{filename}../data_science/2019-05-05_pycon_talk.rst>`_.

@@ -6,6 +6,8 @@ Lessons learned from building a community of Python users among Capital One's an
 :slug: building-python-community-among-analysts
 :authors: I-Kang Ding
 
+**Note**: the content of this blog article came mostly from `my PyCon 2019 talk <{filename}./2019-05-05_pycon_talk.rst>`_.
+
 A lot has been written about Capital One's commitment to go all-in on the cloud and open source software for many of our core business operations, processes, and machine learning models. To support this transformation, we embarked on a multi-year journey to build an internal Python community with a critical mass of users to help scale adoption of Python in our business analyst and data analyst workforces.
 
 This article will highlight our multi-pronged approaches to overcoming organizational inertia while building a community of Python users, providing Python and OSS training, and encouraging Python adoption. We'll also share the best practices that we coalesced around, and lessons learned along the way.
