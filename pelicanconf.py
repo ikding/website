@@ -31,11 +31,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-# MENUITEMS = [
-#     ("Just Programming Posts", "/category/programming.html"),
-#     ("Coder's Guide", "/codersguide/"),
-#     ("Notebooks", "https://nbviewer.jupyter.org/github/toumorokoshi/notebooks/tree/master/"),
-# ]
+MENUITEMS = [
+    ("Resume", "/resume/"),
+]
 # LINKS = (('Pelican', 'http://getpelican.com/'),
 #          ('Python.org', 'http://python.org/'),
 #          ('Jinja2', 'http://jinja.pocoo.org/'),
