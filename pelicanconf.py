@@ -32,8 +32,15 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 MENUITEMS = [
-    ("Resume", "/resume/"),
+    ('About Me', '/pages/about-me.html'),
+    ('Resume', '/resume/'),
+    ('Career', '/category/career.html'),
+    ('Data Science', '/category/data_science.html'),
+    ('Solar', '/category/solar.html'),
+    ('Random', '/category/random.html'),
+    ('Archives', '/archives.html')
 ]
+
 # LINKS = (('Pelican', 'http://getpelican.com/'),
 #          ('Python.org', 'http://python.org/'),
 #          ('Jinja2', 'http://jinja.pocoo.org/'),
@@ -45,6 +52,9 @@ SOCIAL = (
     ('Twitter', 'https://twitter.com/ikding'),
     ('LinkedIn', 'https://www.linkedin.com/in/ikding')
 )
+
+# Add year archives
+YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 
 DEFAULT_PAGINATION = 10
 
@@ -64,8 +74,8 @@ GITHUB_SHOW_USER_LINK = True
 BOOTSTRAP_THEME = 'yeti'
 
 USE_FOLDER_AS_CATEGORY = True
-DISPLAY_PAGES_ON_MENU = True
-DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 
 SHOW_ABOUTME = True
