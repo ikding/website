@@ -2,7 +2,7 @@ Commercialization of concentrated photovoltaics
 ###############################################
 
 :date: 2016-04-21
-:tags: solar
+:tags: climate_tech
 :slug: cpv-commercialization
 :authors: I-Kang Ding
 

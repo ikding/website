@@ -2,7 +2,7 @@ Development of a perovskite solar cells industry
 ################################################
 
 :date: 2016-03-03
-:tags: solar
+:tags: climate_tech
 :slug: perovskite-solar-cells-development
 :authors: I-Kang Ding
 

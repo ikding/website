@@ -2,7 +2,7 @@ Starting solar cell manufacturing in USA
 ########################################
 
 :date: 2016-03-10
-:tags: solar
+:tags: climate_tech
 :slug: solar-cell-manufacturing-in-usa
 :authors: I-Kang Ding
 

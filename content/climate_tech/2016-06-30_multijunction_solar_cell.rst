@@ -2,7 +2,7 @@ Multijunction solar cell fabrication and encapsulation
 ######################################################
 
 :date: 2018-05-22
-:tags: solar
+:tags: climate_tech
 :slug: multijunction-solar-cell
 :authors: I-Kang Ding
 
