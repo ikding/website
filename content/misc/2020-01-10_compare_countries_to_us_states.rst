@@ -2,7 +2,7 @@ Mental exercise: comparing countries to US states
 #################################################
 
 :date: 2020-01-10
-:tags: random
+:tags: misc
 :slug: compare-countries-to-us-states
 :authors: I-Kang Ding
 
