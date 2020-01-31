@@ -6,6 +6,10 @@ Tackling climate change with ML
 :slug: tackling-climate-change-with-ml
 :authors: I-Kang Ding
 
+.. image:: https://upload.wikimedia.org/wikipedia/commons/d/d1/20181204_Warming_stripes_%28global%2C_WMO%2C_1850-2018%29_-_Climate_Lab_Book_%28Ed_Hawkins%29.png
+    :align: center
+    :alt: warming-stripes
+
 I attended the NeurIPS 2019 Workshop - `Tackling Climate Change with Machine Learning <https://www.climatechange.ai/NeurIPS2019_workshop.html>`_ remotely on 2019-12-14. Below are the notes I took from the talks that I attended (which is just a small subset).
 
 Note: Many of the discussions on this workshop is a follow-up to the `paper <https://arxiv.org/abs/1906.05433>`_ of the same name, published on arXiv.
