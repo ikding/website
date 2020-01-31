@@ -34,10 +34,10 @@ AUTHOR_FEED_RSS = None
 MENUITEMS = [
     ('About Me', '/pages/about-me.html'),
     ('Resume', '/resume/'),
-    ('Career', '/category/career.html'),
+    ('Career Development', '/category/career.html'),
     ('Data Science', '/category/data_science.html'),
-    ('Solar', '/category/solar.html'),
-    ('Random', '/category/random.html'),
+    ('Climate Tech', '/category/climate_tech.html'),
+    ('Misc', '/category/misc.html'),
     ('Archives', '/archives.html')
 ]
 
