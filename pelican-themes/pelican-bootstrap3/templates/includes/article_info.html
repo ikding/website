@@ -40,4 +40,7 @@
     {% include 'includes/taglist.html' %}
     {% import 'includes/translations.html' as translations with context %}
     {{ translations.translations_for(article) }}
+    {% if article.readtime %}
+    <span class="label label-success">{{article.readtime.minutes}} min. read</span>
+    {% endif %}
 </footer><!-- /.post-info -->
