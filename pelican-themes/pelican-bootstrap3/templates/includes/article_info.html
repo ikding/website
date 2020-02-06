@@ -3,6 +3,11 @@
     <span class="published">
         <i class="fa fa-calendar"></i><time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }}</time>
     </span>
+    {% if article.readtime %}
+        <span class="label label-default">Read time</span>
+        <span class="published">
+            <i class="fa fa-hourglass"></i> {{article.readtime.minutes}} min.</span>
+    {% endif %}
     {% if SHOW_DATE_MODIFIED %}
         {% if article.modified %}
           <span class="label label-default">{{ _('Modified') }}</span>
@@ -40,7 +45,4 @@
     {% include 'includes/taglist.html' %}
     {% import 'includes/translations.html' as translations with context %}
     {{ translations.translations_for(article) }}
-    {% if article.readtime %}
-    <span class="label label-success">{{article.readtime.minutes}} min. read</span>
-    {% endif %}
 </footer><!-- /.post-info -->
