@@ -17,6 +17,9 @@
                 <p>
                     <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
                     <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a>
+                    {% if article.readtime %}
+                        <span class="categories-timestamp">({{article.readtime.minutes}} min read)</span>
+                    {% endif %}
                 </p>
             {% endfor %}
         </div>
