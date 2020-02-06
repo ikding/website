@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'I-Kang Ding'
 SITENAME = "I-Kang Ding's site"
-THEME = '/Users/ikding/Documents/data_science/projects/pelican-themes/pelican-bootstrap3'
+THEME = 'pelican-themes/pelican-bootstrap3'
 
 # Use this for local development
 # pelican content
@@ -61,8 +61,8 @@ DEFAULT_PAGINATION = 10
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
-PLUGIN_PATHS = ['/Users/ikding/Documents/data_science/projects/pelican-plugins/']
-PLUGINS = ['i18n_subsites']
+PLUGIN_PATHS = ['pelican-plugins/']
+PLUGINS = ['i18n_subsites', 'readtime']
 
 # pelican-bootstrap3 custom options
 # CUSTOM_CSS = 'static/custom.css'
