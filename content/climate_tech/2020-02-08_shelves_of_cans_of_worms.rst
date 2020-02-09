@@ -5,7 +5,7 @@
 :tags: climate_tech
 :slug: shelves-of-cans-of-worms
 :authors: I-Kang Ding
-:summary: Reminiscing about first decade of my career in materials science and deep-tech energy companies, and what I learned about the sector.
+:summary: Reminiscing about first decade of my career in materials science and deep-tech energy companies, and what I learned about the sector. (Also: what software companies and fruit flies have in common, and why working on deep tech energy technologies can feel like opening cans of worms all day.)
 
 Climate change is one of the most important problems of of 21st century. After many investors having been burned in the clean tech 1.0 wave in the late 00's, there has recently been a resurgence of interest from investors in things related to "climate tech".
 
@@ -19,7 +19,7 @@ When I was at Stanford, I took a class from Stanford GSB (graduate school of bus
 
     "Software companies to us business school professors are like fruit flies to biologists. Biologists study fruit flies because they have very short life cycles, are not time- and resource-intensive to breed, and are therefore the model organism to do research on. We in business schools like to study software companies for largely the same reasons."
 
-To extend this analogy further, the consumer electronics hardware companies are like small mammals (mice), energy materials companies are medium-sized mammals (monkeys), and pharmaceutical companies are large-sized mammals (sheep). There is a reason that venture capital like software companies too - they are usually less capital incentive, can operates at a high operating margin, and you typically do not need to plunge billions of dollars and wait for two decades to know if it works.
+To extend this analogy further, the consumer electronics hardware companies are like small mammals (mice), energy materials companies are medium-sized mammals (monkeys), and pharmaceutical companies are large-sized mammals (sheep). There is a reason that venture capital like software companies too - they are usually less capital intensive, can operate at a high operating margin, and you typically do not need to plunge billions of dollars and wait for two decades to know if it works.
 
 Typical software startups have the following milestone as they scale: (source: `The Most Important Startup Question <https://www.forentrepreneurs.com/most-important-startup-question/>`_)
 
@@ -58,7 +58,7 @@ Technology development for deep-tech energy startup is expensive and time-consum
 
 The materials science breakthrough that enabled these commercial opportunities took researchers decades to develop. Even after the respective companies were founded, it took decades still to scale up to its success today.
 
-More over, after the technology is scoped and developed, there's still considerable capital expenditure needed in order to bring a product to large scale manufacturing. Unlike the software startups that can use "shared infrastructure" such as cloud service providers and open source software, deep-tech hardware startups do not have these shared services at their disposal.
+Moreover, after the technology is scoped and developed, there's still considerable capital expenditure needed in order to bring a product to large scale manufacturing. Unlike the software startups that can use "shared infrastructure" such as cloud service providers and open source software, deep-tech hardware startups do not have these shared services at their disposal.
 
 Thirdly, if you have to thread the needle on more than one area of "novel innovations", the risk of your startup goes up exponentially. My cynical measure of this is the "cans-of-worms" meter. Check first how many criteria a startup satisfies:
 
@@ -82,7 +82,7 @@ Your product can easily become a commodity
 
 One of the things that makes deep-tech energy startup different from other high CapEx businesses like pharmaceutical and semiconductor fabs is that your product can easily become commodity if you are not careful. The examples being made below are primarily drawn from the solar cell industry, but the same lesson also applies to others.
 
-One of the notable causalities from from the clean tech 1.0 bust were the thin film solar cell companies - there were literally `more than 100 of them <https://www.greentechmedia.com/articles/read/the-mercifully-short-list-of-fallen-solar-companies-2015-edition>`_ that closed down shop in 2010-2015. But before we talk about what happened to these solar cell companies, we have to learn about a concept called "experience curve".
+One of the notable causalities from from the clean tech 1.0 bust were the thin film solar cell companies - there were literally `more than 100 of them <https://www.greentechmedia.com/articles/read/the-mercifully-short-list-of-fallen-solar-companies-2015-edition>`_ that closed shop in 2010-2015. But before we talk about what happened to these solar cell companies, we have to learn about a concept called "experience curve".
 
 `Experience curve <https://en.wikipedia.org/wiki/Experience_curve_effects>`_ (aka. learning curve) can be described as the mathematical relationship between the number of times a task has been performed vs. the time/resource required on each subsequent iteration. In the solar cell example, there's `Swanson' law <https://en.wikipedia.org/wiki/Swanson's_law>`_, which described a learning rate of 20% - that is, the price of solar photovoltaic modules tends to drop 20 percent for every doubling of cumulative shipped volume.
 
