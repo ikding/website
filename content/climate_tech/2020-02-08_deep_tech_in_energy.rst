@@ -7,11 +7,6 @@
 :authors: I-Kang Ding
 :summary: Reminiscing about first decade of my career in materials science and deep-tech energy companies, and what I learned about the sector. (Also: what software companies and fruit flies have in common, and why working on deep tech energy technologies can feel like opening cans of worms all day.)
 
-
-.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Swansons-law.svg/2560px-Swansons-law.svg.png
-    :align: center
-    :alt: swansons-law
-
 Climate change is one of the most important problems of of 21st century. After many investors having been burned in the clean tech 1.0 wave in the late 00's, there has recently been a resurgence of interest from investors in things related to "climate tech".
 
 As a person who spent first decade of my career in materials science and deep-tech energy companies (Stanford '06-'11, Alta Devices '11-'12, Lumileds '12-'15), I’d like share with people who are new to this field some learnings and my personal beliefs, shaped not just from my personal experience, but from talking to many folks in the same field.
