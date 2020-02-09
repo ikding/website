@@ -3,7 +3,7 @@
 
 :date: 2020-02-08
 :tags: climate_tech
-:slug: shelves-of-cans-of-worms
+:slug: deep-tech-in-energy
 :authors: I-Kang Ding
 :summary: Reminiscing about first decade of my career in materials science and deep-tech energy companies, and what I learned about the sector. (Also: what software companies and fruit flies have in common, and why working on deep tech energy technologies can feel like opening cans of worms all day.)
 
