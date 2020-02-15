@@ -81,7 +81,7 @@ DISPLAY_ARTICLE_INFO_ON_INDEX = True
 SHOW_ABOUTME = True
 AVATAR = "/images/profile.jpg"
 ABOUT_ME = """
-Data Science Manager at Capital One, focused on anti-fraud ML models.
+Doing data mining on mining data at KoBold Metals.
 Stanford Engineering Ph.D.
 <br/>
 <br/>

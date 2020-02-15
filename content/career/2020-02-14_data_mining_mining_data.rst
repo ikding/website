@@ -10,6 +10,7 @@ Data mining mining data
 .. image:: https://www.koboldmetals.com/wp-content/uploads/2018/11/KoBold-OLD-horizontal.png
     :align: center
     :alt: kobold-metals-logo
+    :width: 600 px
 
 Some professional news: after close to 5 years, today will be my last day at Capital One.
 
@@ -18,6 +19,7 @@ I joined Capital One to learn about an entirely new domain, make a big impact, a
 .. image:: https://user-images.githubusercontent.com/7269845/74580905-f8600900-4f76-11ea-8ba4-c9a4775348cf.jpg
     :align: center
     :alt: capital-one-lobby
+    :width: 400 px
 
 Starting next week, I will be joining `KoBold Metals <https://www.koboldmetals.com>`_, a startup working on mineral exploration of battery materials (such as Cobalt) using big data and superior science of ore deposits. (Hence the pun in the title - "Data mining mining data"). The startup consists of a stellar team of domain experts in mining exploration and data science / machine learning (if I may say so myself), and we have aspirations to make big impacts to climate change by finding new sources of supply-constrained battery materials, thereby accelerating the electrification and decarbonization of transportation.
 
