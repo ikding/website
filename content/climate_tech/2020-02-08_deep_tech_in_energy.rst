@@ -63,7 +63,7 @@ Moreover, after the technology is scoped and developed, there's still considerab
 Thirdly, if you have to thread the needle on more than one area of "novel innovations", the risk of your startup goes up exponentially. My cynical measure of this is the "cans-of-worms" meter. Check first how many criteria a startup satisfies:
 
 * New materials (as opposed to commonly used and studied materials)
-* New manufacturing processes (as opposed incompatible with existing state-of-art manufacturing processes)
+* New manufacturing processes (as opposed to compatibility with existing state-of-art manufacturing processes)
 * New, custom-designed equipment (as opposed to off-the-shelf equipments from a reputed equipment manufacturer)
 
 Now, consult the table below to map the number of boxes you checked, to the "cans-of-worms" meter:
