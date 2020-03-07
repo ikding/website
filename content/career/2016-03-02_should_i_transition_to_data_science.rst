@@ -2,7 +2,7 @@ Should I transition to data science?
 ####################################
 
 :date: 2016-03-02
-:tags: career
+:tags: career, data_science
 :slug: should-i-transition-to-data-science
 :authors: I-Kang Ding
 
