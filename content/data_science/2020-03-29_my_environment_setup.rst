@@ -1,7 +1,7 @@
 My work-from-home environment setup
 ###################################
 
-:date: 2020-03-22
+:date: 2020-03-29
 :tags: data_science
 :slug: my-work-from-home-environment-setup
 :authors: I-Kang Ding
@@ -9,6 +9,29 @@ My work-from-home environment setup
 
 
 I have been working as a data scientist for almost 8 years now, and have been working from home majority of the time for the past 5 years. I also started a new job recently and had to set up my new work laptop, so I am using this post to document the environments I use, for future reference:
+
+
+Standing Desk
+-------------
+
+My work place typically provides desks that I can adjust the height between standing and sitting. While I'd love to have the same setup at home, I didn't want to spend upwards of $500 - $1,000 to get full-fledged standing desk, so I'm going with of-the-shelf standing desk using IKEA parts for $22. The drawback is that I can _only_ stand at my desk. (Reference: `A standing desk for $22 <https://alphacolin.com/ikea-standing-desk-for-22-dollars/>`_)
+
+
+Computer accessories
+--------------------
+
+I am not very picky about keyboards, so I've been sticking with Apple's `Magic Keyboard with Numeric Keypad <https://www.apple.com/shop/product/MQ052LL/A/magic-keyboard-with-numeric-keypad-us-english-silver>`_ and `Magic Trackpad 2 <https://www.apple.com/shop/product/MRMF2LL/A/magic-trackpad-2-space-gray>`_.
+
+As for the screen, I find a wide screen super helpful for my own productivity. The one I used is `Dell 3415W 34-in Curved Ultrawide Monitor <https://www.dell.com/en-us/work/shop/dell-ultrasharp-34-curved-ultrawide-monitor-u3415w/apd/210-adtr>`_.
+
+
+My physical setup looks like below. (Cat is sold separately)
+
+.. image:: https://user-images.githubusercontent.com/7269845/77851142-636f4300-71a5-11ea-9c09-707de8320e48.jpg
+    :align: center
+    :alt: standing-desk
+    :width: 500 px
+
 
 Shell
 -----
@@ -32,3 +55,10 @@ I have been using `Visual Studio code <https://code.visualstudio.com>`_ as my ma
 * `reStructuredText <https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext>`_: reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)
 * `Table Formatter <https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter>`_: Format table syntax of Markdown, Textile and reStructuredText.
 * `vscode-icons <https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons>`_: Icons for Visual Studio Code
+
+Here is a screen shot of my vscode window.
+
+.. image:: https://user-images.githubusercontent.com/7269845/77852673-e5636a00-71ad-11ea-9d80-c73b53e4c466.png
+    :align: center
+    :alt: vscode-screen-shot
+    :width: 500 px
