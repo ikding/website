@@ -6,6 +6,12 @@ Thoughts (Rants) on Moonshots
 :slug: rants-on-moonshots
 :authors: I-Kang Ding
 
+
+.. image:: https://imgs.xkcd.com/comics/physicists.png
+    :align: center
+    :alt: xkcd-physicists
+    :width: 400 px
+
 I attended a "moonshot" sprint event in early April sponsored by my employer. The topic was "making impact on climate change", which was something that I care deeply about and had some experience (deeper experience in solar cells and moderate knowledge in other renewable energy and sustainability technologies in general). I was curious what the audience (mostly IT people, product managers, business folks) can do to "solve" climate change.
 
 The day begun with a inspirational talk by the event organizer, making analogies about SpaceX, Tesla, and other "moonshot" companies that aim to change the world. They encourage us to do the same. Then we split into teams of 5-8 to brainstorm ideas about how we can "solve" climate change, develop solutions, and draft a slide deck to talk about our idea and roadmaps, all in the span of a day.
