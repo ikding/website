@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'I-Kang Ding'
-SITENAME = "I-Kang Ding's site"
-THEME = 'pelican-themes/pelican-bootstrap3'
-PYGMENTS_STYLE = 'monokai'
+AUTHOR = "I-Kang Ding"
+SITENAME = "I-Kang's Notes"
+THEME = "pelican-themes/pelican-bootstrap3"
+PYGMENTS_STYLE = "monokai"
 
 # Use this for local development
 # pelican content
-SITEURL = '.'
+SITEURL = "."
 RELATIVE_URLS = True
 
 # Use this for publishing
@@ -17,12 +17,12 @@ RELATIVE_URLS = True
 # SITEURL = 'https://ikding.github.io'
 # RELATIVE_URLS = False
 
-PATH = 'content'
+PATH = "content"
 
-TIMEZONE = 'US/Eastern'
-DEFAULT_DATE_FORMAT = '%Y-%m-%d (%a)'
+TIMEZONE = "US/Eastern"
+DEFAULT_DATE_FORMAT = "%Y-%m-%d (%a)"
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = "en"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -33,13 +33,13 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 MENUITEMS = [
-    ('About Me', '/pages/about-me.html'),
-    ('Resume', '/resume/'),
-    ('Career Development', '/tag/career.html'),
-    ('Data Science', '/tag/data_science.html'),
-    ('Climate Tech', '/tag/climate_tech.html'),
-    ('Misc', '/tag/misc.html'),
-    ('Archives', '/archives.html')
+    ("About Me", "/pages/about-me.html"),
+    ("Resume", "/resume/"),
+    ("Career Development", "/tag/career.html"),
+    ("Data Science", "/tag/data_science.html"),
+    ("Climate Tech", "/tag/climate_tech.html"),
+    ("Misc", "/tag/misc.html"),
+    ("Archives", "/archives.html"),
 ]
 
 # LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -49,30 +49,30 @@ MENUITEMS = [
 
 # Social widget
 SOCIAL = (
-    ('GitHub', 'https://github.com/ikding'),
-    ('Twitter', 'https://twitter.com/ikding'),
-    ('LinkedIn', 'https://www.linkedin.com/in/ikding')
+    ("GitHub", "https://github.com/ikding"),
+    ("Twitter", "https://twitter.com/ikding"),
+    ("LinkedIn", "https://www.linkedin.com/in/ikding"),
 )
 
 # Add year archives
-YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
+YEAR_ARCHIVE_SAVE_AS = "posts/{date:%Y}/index.html"
 
 DEFAULT_PAGINATION = 10
 
 JINJA_ENVIRONMENT = {
-    'extensions': ['jinja2.ext.i18n'],
+    "extensions": ["jinja2.ext.i18n"],
 }
-PLUGIN_PATHS = ['pelican-plugins/']
-PLUGINS = ['i18n_subsites', 'readtime']
+PLUGIN_PATHS = ["pelican-plugins/"]
+PLUGINS = ["i18n_subsites", "readtime"]
 
 # pelican-bootstrap3 custom options
 # CUSTOM_CSS = 'static/custom.css'
 
-GITHUB_USER = 'ikding'
+GITHUB_USER = "ikding"
 GITHUB_REPO_COUNT = 3
 GITHUB_SKIP_FORK = True
 GITHUB_SHOW_USER_LINK = True
-BOOTSTRAP_THEME = 'yeti'
+BOOTSTRAP_THEME = "yeti"
 
 USE_FOLDER_AS_CATEGORY = True
 DISPLAY_PAGES_ON_MENU = False
@@ -89,5 +89,5 @@ Stanford Engineering Ph.D.
 Interested in machine learning, Python, and climate change.
 """
 
-DISQUS_SITENAME = 'ikding'
-GOOGLE_ANALYTICS = 'UA-19568221-4'
+DISQUS_SITENAME = "ikding"
+GOOGLE_ANALYTICS = "UA-19568221-4"
