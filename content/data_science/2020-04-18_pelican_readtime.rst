@@ -5,7 +5,7 @@ Pelican Readtime Plugin
 :tags: data_science
 :slug: pelican-readtime-plugin
 :authors: I-Kang Ding
-:summary: How to add readtime plugin in pelican
+:summary: How to use pelican readtime plugin in Pelican static site generator
 
 
 In the beginning of 2020, I started a goal of writing more professionally. I did not like the idea of putting my blog articles in pay-wall sites such as medium, so I decided to use my own static site generator and host my blog in GitHub pages.
