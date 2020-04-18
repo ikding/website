@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'I-Kang Ding'
 SITENAME = "I-Kang Ding's site"
 THEME = 'pelican-themes/pelican-bootstrap3'
+PYGMENTS_STYLE = 'monokai'
 
 # Use this for local development
 # pelican content
