@@ -7,10 +7,11 @@ PyVista tutorial: Red Spiders Cometh
 :authors: I-Kang Ding
 
 
-.. image:: https://user-images.githubusercontent.com/7269845/79707786-9a5be480-828b-11ea-85ea-2e9b99982b5a.png
+.. image:: https://user-images.githubusercontent.com/7269845/79694828-e897c600-8240-11ea-8d09-9681be469f46.gif
     :align: center
-    :alt: xkcd-oh-god-spiders
-    :width: 150 px
+    :alt: red-spiders-cometh-gif-link
+    :target: https://ikding.github.io/xkcd_red_spider_3d/
+    :width: 500 px
 
 
 PyVista is a Python package for 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). I learned how to use the package in the past few weeks, and decided to build something fun to explore Python-based 3D visualization on the web.
@@ -22,6 +23,11 @@ What should I build?
 --------------------
 
 As a engineering / programming nerd, I have always been a big fan of `XKCD comics <https://xkcd.com>`_. (In fact, I've been known to possess an uncanny set of esoteric knowledge about XKCD comic references, and I often put a healthy dosage of xkcd comics in my `conference talks <{filename}./2020-01-08_building_python_community_among_analysts.rst>`_... but that's a topic for another post!) So, when I was thinking of 2D scenes that I want to render, I immediately think of XKCD's `red spiders <https://www.explainxkcd.com/wiki/index.php/Category:Red_Spiders>`_.
+
+.. image:: https://user-images.githubusercontent.com/7269845/79707786-9a5be480-828b-11ea-85ea-2e9b99982b5a.png
+    :align: center
+    :alt: xkcd-oh-god-spiders
+    :width: 150 px
 
 Red spiders appear in at least 7 different XKCD comics, although not many recently. After looking through the xkcd spider comic, I landed on the `Red Spiders Cometh <https://xkcd.com/126/>`__ scene. This post will walk through how we can turn this 2D scene:
 
