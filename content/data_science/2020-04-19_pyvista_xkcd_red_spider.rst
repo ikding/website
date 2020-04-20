@@ -2,10 +2,15 @@ PyVista tutorial: Red Spiders Cometh
 ####################################
 
 :date: 2020-04-19
-:tags: data_science
+:tags: data_science, misc
 :slug: pyvista-red-spiders-cometh
 :authors: I-Kang Ding
-:summary: Short version for index and feeds
+
+
+.. image:: https://user-images.githubusercontent.com/7269845/79707786-9a5be480-828b-11ea-85ea-2e9b99982b5a.png
+    :align: center
+    :alt: xkcd-oh-god-spiders
+    :width: 150 px
 
 
 PyVista is a Python package for 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). I learned how to use the package in the past few weeks, and decided to build something fun to explore Python-based 3D visualization on the web.
@@ -508,3 +513,12 @@ Last words
 I have really enjoy my experience using PyVista so far. The library has a really extensive documentation and use cases, and I have had numerous cases where I was fiddling with things to see if they work in PyVista, and it turned out to work in my first try, which is always a pleasant surprise when you are playing with a new tool.
 
 All the code examples (along with a more modularized code base) can be found in this repo: `ikding/xkcd_red_spider_3d <https://github.com/ikding/xkcd_red_spider_3d>`_. Enjoy!
+
+P.S. in case anyone is interested, here are all six XKCD comics in which the red spider was referenced:
+
+* `8: Red Spiders <https://xkcd.com/8/>`_
+* `43: Red Spiders 2 <https://xkcd.com/43/>`_
+* `47: Counter-Red Spiders <https://xkcd.com/47/>`_
+* `126: Red Spiders Cometh <https://xkcd.com/126/>`_
+* `427: Bad Timing <https://xkcd.com/427/>`_
+* `442: xkcd Loves the Discovery Channel <https://xkcd.com/442/>`_
