@@ -25,11 +25,12 @@ Red spiders appear in at least 7 different XKCD comics, although not many recent
     :alt: xkcd-red-spiders-cometh-2d
     :width: 500 px
 
-To a 3D scene that you can view and zoom on the web:
+To a 3D scene that you can view and zoom `on the web <https://ikding.github.io/xkcd_red_spider_3d/>`_:
 
-.. image:: https://user-images.githubusercontent.com/7269845/79693265-a0c07100-8237-11ea-92e8-eeecc00e7bcc.png
+.. image:: https://user-images.githubusercontent.com/7269845/79694828-e897c600-8240-11ea-8d09-9681be469f46.gif
     :align: center
-    :alt: red-spiders-cometh-3d
+    :alt: red-spiders-cometh-gif-link
+    :target: https://ikding.github.io/xkcd_red_spider_3d/
     :width: 500 px
 
 
@@ -158,7 +159,7 @@ And now we have a assault unit! *Our solider stares, with resolve, into the dist
 Hello buildings
 ---------------
 
-If you look at the `original comic <https://xkcd.com/126/>`_, you would notice that the spider army has a target of their invasion - namely, the numerous buildings at a distance. Unfortunately there were no "stock buildings" that I can find in pyvista examples, but PyVista does have the ability to read a variety of 3D file types, so I did a google search and found this `Buildings and Skyscrapers <https://sketchfab.com/3d-models/buildings-and-skyscrapers-b35a7a00d6414f93a3d380965dfd169b>`_ 3D model (``.obj`` file), created by `Angel V Mendez <https://sketchfab.com/Angel.V.Mendez>`_ on Sketchfab, and made available through creative commons licensing. I downloaded the ``.obj`` file and save them to disk, and I can simply use ``pyvista.read()`` function to read them.
+If you look at the `original comic <https://xkcd.com/126/>`_, you would notice that the spider army has a target of their invasion - namely, the numerous buildings at a distance. Unfortunately there were no "stock buildings" that I can find in PyVista examples, but PyVista does have the ability to read a variety of 3D file types, so I did a google search and found this `Buildings and Skyscrapers <https://sketchfab.com/3d-models/buildings-and-skyscrapers-b35a7a00d6414f93a3d380965dfd169b>`_ 3D model (``.obj`` file), created by `Angel V Mendez <https://sketchfab.com/Angel.V.Mendez>`_ on Sketchfab, and made available through creative commons licensing. I downloaded the ``.obj`` file and save them to disk, and I can simply use ``pyvista.read()`` function to read them.
 
 .. code-block:: python
 
@@ -481,7 +482,7 @@ And now, you can see the re-created scene of "Red Spiders Cometh" in 3D!
 Commemorate our conquest on the web
 -----------------------------------
 
-So far, we've been rendering the 3D scene with PyVista on the local machine. The cool thing about PyVista is: you can easily export your scene, and use `vtkjs <https://kitware.github.io/vtk-js/index.html>`_ to allow our scene of conquest to be rendered in a website.
+So far, we've been rendering the 3D scene with PyVista on the local machine. One cool thing about PyVista is: you can easily export your scene, and use `vtkjs <https://kitware.github.io/vtk-js/index.html>`_ to allow our scene of conquest to be rendered in a website.
 
 All it takes is one line of `export_vtkjs <https://docs.pyvista.org/plotting/plotting.html#pyvista.BasePlotter.export_vtkjs>`_ code to export our scene to ``.vtkjs``:
 
@@ -498,12 +499,12 @@ So now, here I present to you, `Red Spiders Cometh <https://ikding.github.io/xkc
     :align: center
     :alt: red-spiders-cometh-gif-link
     :target: https://ikding.github.io/xkcd_red_spider_3d/
-    :width: 350 px
+    :width: 500 px
 
 
 Last words
 ----------
 
-I have really enjoy my experience using PyVista so far. The library has a really extensive documentation and use cases, and I have had numerous cases where I was fiddling with things to see if they work in PyVista, and it turned out in the first try, which is always a pleasant surprise when you are playing with a new tool.
+I have really enjoy my experience using PyVista so far. The library has a really extensive documentation and use cases, and I have had numerous cases where I was fiddling with things to see if they work in PyVista, and it turned out to work in my first try, which is always a pleasant surprise when you are playing with a new tool.
 
 All the code examples (along with a more modularized code base) can be found in this repo: `ikding/xkcd_red_spider_3d <https://github.com/ikding/xkcd_red_spider_3d>`_. Enjoy!
