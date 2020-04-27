@@ -101,13 +101,13 @@ Key takeaways:
 Part 1: ML for Climate Change
 =============================
 
-* Carbon markets. Highlighted company: Silviaterra basemap. Making forest inventory for every acre in America. 500 M acres at 0.5 acre resolution
+* Carbon markets. Highlighted company: `Silviaterra basemap <https://silviaterra.com>`_. Making forest inventory for every acre in America. 500 M acres at 0.5 acre resolution
 * Sub-seasonal forecasting
 
   * Between days long weather forecasts vs. seasonal forecasts. 20-40 days
-  * Subseasonal Rodeo dataset
+  * `Subseasonal Rodeo dataset <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IHBANG>`_
 
-* Making climate scientists more efficient with the tools of DS community - Pangeo.io, ooicloud.org
+* Making climate scientists more efficient with the tools of DS community - `Pangeo <https://pangeo.io>`_, `OOICloud <https://www.ooicloud.org>`_
 
 
 Part 2: ML for monitoring / protection / conservation of biodiversity
@@ -123,45 +123,44 @@ Part 2: ML for monitoring / protection / conservation of biodiversity
 * Monitoring biodiversity:
 
   * lots of raw data about wildlife, especially remote sensing data & tedious labeling process
-  * Wild Me: ML to scale scientific effort
-  * iNaturalist: ML to up-level everyone’s expertise - scaling expertise
+  * `Wild Me <https://www.wildme.org>`_: ML to scale scientific effort
+  * `iNaturalist <https://www.inaturalist.org>`_: ML to up-level everyone’s expertise - scaling expertise
   * Finding penguins from space: ML to do surveys at unprecedented scale
 
-* Lots of AI tools that MSFT built are on monitoring:
+* Lots of AI tools that Microsoft built are on monitoring:
 
-  * Accelerating camera trap image processing cameratraps
+  * Accelerating camera trap image processing: `cameratraps <https://github.com/microsoft/CameraTraps>`_
   * Species classification is a sexy problem, but we focus on more mundane problems (but occurred far more often: classify vehicle, animal, humans
-  * lila.science: open data repository which hosts labelled conversation datasets
+  * `lila.science <http://lila.science>`_: open data repository which hosts labelled conversation datasets
 
 * Protection
 
-  * OceanMind: ML to detect illegal fishing. Apply ML in sensor data on transponding vessels, or satellite on non-transponding vessels
-  * ML to detect poaching threats: Wildlife protection solutions, Peace Parks. Prioritize staff time when they review camera footage
+  * `OceanMind <https://www.oceanmind.global>`_: ML to detect illegal fishing. Apply ML in sensor data on transponding vessels, or satellite on non-transponding vessels
+  * ML to detect poaching threats: `Wildlife protection solutions <https://wildlifeprotectionsolutions.org>`_, `Peace Parks <https://www.peaceparks.org>`_. Prioritize staff time when they review camera footage.
 
 * ML for Land Conservation
 
-  * Land use and CC are intertwined (reference: IPCC land use report, 2019)
+  * Land use and CC are intertwined (reference: `IPCC special report on Climate Change and Land <https://www.ipcc.ch/srccl/>`_, 2019)
   * The reverse is true - climate change impacts agriculture (land use) too!
   * Optimizing the land we protect
 
-    * NatureServe - map of biodiversity importance, identifying high priority protection targets
-    * Nature Conservancy: last chance ecosystems
-    * Optimizing protection: imageclef.org/GeoLifeCLEF2020 - wild life
+    * `NatureServe <https://www.natureserve.org>`_ - map of biodiversity importance, identifying high priority protection targets
+    * `Nature Conservancy <https://www.nature.org/en-us/>`_: last chance ecosystems
+    * Optimizing protection of wild life species: `https://www.imageclef.org/GeoLifeCLEF2020 <https://www.imageclef.org/GeoLifeCLEF2020>`_
 
   * minimize the land we use for food
 
-    * Ag Analytics: improving agricultural forecasting and conservation practices
+    * `Ag Analytics <https://analytics.ag>`_: improving agricultural forecasting and conservation practices
     * Identifying field level agricultural practices from remote sensing data
-    * Crop yield prediction - done by Stanford Ermon group
+    * `Crop yield prediction from remote sensing data <https://cs.stanford.edu/~ermon/papers/cropyield_AAAI17.pdf>`_ - done by Stanford Ermon group
 
   * make land surveys more efficient
 
     * Land cover mapping from aerial and satellite imaging
     * Need to scale human effort
     * Data: NAIP, high-res; Landsat, low-res.
-    * aka.ms/landcoverdemo
-    * aka.ms/landcovermapping
-    * lila/science/datasets/chesapeakelandcover
+    * Demos: `Land cover training <aka.ms/landcoverdemo>`_, `Land cover mapping <aka.ms/landcovermapping>`_.
+    * Dataset: `Chesapeake Land Cover <http://lila.science/datasets/chesapeakelandcover>`_
     * Re-tweak priorities, Build tools that help geospatial analysts get their land cover mapping modelled
 
 * Q & A:
