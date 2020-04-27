@@ -1,9 +1,9 @@
-Tackling climate change with ML
-###############################
+Tackling climate change with ML (NeurIPS Workshop)
+##################################################
 
 :date: 2019-12-14
 :tags: climate_tech, data_science
-:slug: tackling-climate-change-with-ml
+:slug: tackling-climate-change-with-ml-neurips
 :authors: I-Kang Ding
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/d/d1/20181204_Warming_stripes_%28global%2C_WMO%2C_1850-2018%29_-_Climate_Lab_Book_%28Ed_Hawkins%29.png

@@ -37,7 +37,7 @@ One thing I wish the paper provide is a qualitative measure of potential impacts
     :alt: tackling-climate-change-paper-impact
     :width: 600 px
 
-The group of people who published the paper also have a website, `Climate Change AI <https://www.climatechange.ai>`_, that provide periodic newsletters and host conference workshop at various ML conferences. For example, I attended their NeurIPS 2019 Workshop remotely in December 2019. You can see my `notes <{filename}../climate_tech/2019-12-14_tackling_climate_change_with_ml.rst>`_.
+The group of people who published the paper also have a website, `Climate Change AI <https://www.climatechange.ai>`_, that provide periodic newsletters and host conference workshop at various ML conferences. For example, I attended their NeurIPS 2019 Workshop remotely in December 2019. You can see my `notes <{filename}../climate_tech/2019-12-14_tackling_climate_change_with_ml_neurips.rst>`_.
 
 
 Keeping pulse with industry developments
