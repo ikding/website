@@ -6,6 +6,10 @@ Tackling climate change with ML (ICLR Workshop 2020) - day 1
 :slug: tackling-climate-change-with-ml-iclr-day-1
 :authors: I-Kang Ding
 
+.. image:: https://iclr.cc/static/admin/img/ICLR-logo.png
+    :align: center
+    :alt: iclr-conference-logo
+
 
 I attended day 1 of ICLR Workshop - `Tackling Climate Change with Machine Learning <https://www.climatechange.ai/ICLR2020_workshop#schedule>`_ remotely on 2020-04-26. Below are the notes I took from the talks that I attended. Day 1 of the conference had a jam-packed schedule, but because of the time zone difference, I was only able to attend a small subset of the talk.
 
