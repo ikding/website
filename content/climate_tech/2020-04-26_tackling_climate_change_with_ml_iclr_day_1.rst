@@ -11,7 +11,7 @@ Tackling climate change with ML (ICLR Workshop 2020) - day 1
     :alt: iclr-conference-logo
 
 
-I attended day 1 of ICLR Workshop - `Tackling Climate Change with Machine Learning <https://www.climatechange.ai/ICLR2020_workshop#schedule>`_ remotely on 2020-04-26. Below are the notes I took from the talks that I attended. Day 1 of the conference had a jam-packed schedule, but because of the time zone difference, I was only able to attend a small subset of the talk.
+I attended day 1 (Main workshop) of ICLR Workshop - `Tackling Climate Change with Machine Learning <https://www.climatechange.ai/ICLR2020_workshop#schedule>`_ remotely on 2020-04-26. Below are the notes I took from the talks that I attended. Day 1 of the conference had a jam-packed schedule, but because of the time zone difference, I was only able to attend a small subset of the talk.
 
 
 Panel: intersection of climate change and machine learning
@@ -41,8 +41,8 @@ Join us for a panel discussion on the theory and practice of doing work at the i
 
 **Answers**:
 
-* ML models often have had a hard time being “believed” by domain experts, unless there’s way to use models on synthetic data and show that the models matches with what the experts agree on physics-based principles.
-* There’s no way for non-technical experts (e.g. policy makers) to really become “co-equals” with ML researchers, unless the non technical stakeholders have way to “play / tweak” models themselves without writing code. This may involve more efforts on building simplified version of your model, and allow non technical people to use it with a UI to play with different scenarios. This takes more time (and different sets of expertise) than what ML researchers are used to.
+* ML models often have had a hard time being "believed" by domain experts, unless there's way to use models on synthetic data and show that the models matches with what the experts agree on physics-based principles.
+* There's no way for non-technical experts (e.g. policy makers) to really become "co-equals" with ML researchers, unless the non technical stakeholders have way to "play / tweak" models themselves without writing code. This may involve more efforts on building simplified version of your model, and allow non technical people to use it with a UI to play with different scenarios. This takes more time (and different sets of expertise) than what ML researchers are used to.
 
 **Question**: Applications that can help with negative emissions
 
@@ -60,19 +60,19 @@ Abstract: Recent technological developments are creating new spatio-temporal dat
 
   * Developing countries are likely to be negatively impacted by climate change
   * But data on the ground is sparse at developing countries
-  * If you can’t see it, you can’t solve it
+  * If you can't see it, you can't solve it
   * Solution: remote sensing. Landsat -> satellite now, the spatial resolution has been greatly improved! From 30m to 3-5m resolution.
 
-* Ermon’s group is working on using satellite images to estimate poverty measures
+* Ermon's group is working on using satellite images to estimate poverty measures
 
-  * Off the shelf technique often don’t work because there are very small amount of labelled data
+  * Off the shelf technique often don't work because there are very small amount of labelled data
   * Technical challenges: lots of images, very few labels
   * Need to use methods like semi-supervised learning, transfer learning, etc
 
 * Tile2Vec:
 
-  * Good example of transfer learning: Word2Vec, continuous word vector representations. Assumes “words that appear in similar contexts have similar meanings”
-  * Tile2Vec: extension of that concept to geospatial data. Extends distribution hypothesis to geospatial data. “Everything is related to everything else, but near things are more related than distant things” (Similar location <-> similar meaning)
+  * Good example of transfer learning: Word2Vec, continuous word vector representations. Assumes "words that appear in similar contexts have similar meanings"
+  * Tile2Vec: extension of that concept to geospatial data. Extends distribution hypothesis to geospatial data. "Everything is related to everything else, but near things are more related than distant things" (Similar location <-> similar meaning)
   * Train triplet loss on tiles close to vs away from each other
   * Example task: classify crop types. RGBN images -> predict 57 crop types
   * Tile2Vec can outperform state-of-art CV algorithms such as ResNet, DenseNet, inception models in the sparsely labelled data regime.
@@ -87,13 +87,13 @@ Abstract: Recent technological developments are creating new spatio-temporal dat
 Climate, biodiversity, and land: using ML to protect and restore ecosystems - Dan Morris
 ----------------------------------------------------------------------------------------
 
-Abstract: When we think “ML for climate change”, we often think of climate forecasting, energy grid optimization, greenhouse gas reduction, and other opportunities for ML to impact the direct causes and effects of global warming. But in this talk, I will present the close relationships among climate, biodiversity, and land use, and I will discuss opportunities for ML to support climate change mitigation by accelerating efforts in all three of these areas. Furthermore, this workshop’s mission states that “many in the ML community wish to take action on climate change, yet feel their skills are inapplicable”; I hope to convince the audience that one of the best ways we can put ML to work – and often the easiest way for ML students and practitioners to get hands-on experience with environmental sustainability – is to focus on some of the “small” problems whose solutions will make the day-to-day work of conservation scientists and practitioners more efficient.
+Abstract: When we think "ML for climate change", we often think of climate forecasting, energy grid optimization, greenhouse gas reduction, and other opportunities for ML to impact the direct causes and effects of global warming. But in this talk, I will present the close relationships among climate, biodiversity, and land use, and I will discuss opportunities for ML to support climate change mitigation by accelerating efforts in all three of these areas. Furthermore, this workshop's mission states that "many in the ML community wish to take action on climate change, yet feel their skills are inapplicable"; I hope to convince the audience that one of the best ways we can put ML to work – and often the easiest way for ML students and practitioners to get hands-on experience with environmental sustainability – is to focus on some of the "small" problems whose solutions will make the day-to-day work of conservation scientists and practitioners more efficient.
 
 Key takeaways:
 
 * Climate, biodiversity, and land use are intertwined
 * ML can help in all three areas: go play with the data!
-* Don’t sleep on the small problems that make the experts more efficient
+* Don't sleep on the small problems that make the experts more efficient
 * AL for Earth is a thing and we want to help you
 
 `AI for Earth <https://www.microsoft.com/en-us/ai/ai-for-earth>`_:
@@ -128,7 +128,7 @@ Part 2: ML for monitoring / protection / conservation of biodiversity
 
   * lots of raw data about wildlife, especially remote sensing data & tedious labeling process
   * `Wild Me <https://www.wildme.org>`_: ML to scale scientific effort
-  * `iNaturalist <https://www.inaturalist.org>`_: ML to up-level everyone’s expertise - scaling expertise
+  * `iNaturalist <https://www.inaturalist.org>`_: ML to up-level everyone's expertise - scaling expertise
   * Finding penguins from space: ML to do surveys at unprecedented scale
 
 * Lots of AI tools that Microsoft built are on monitoring:
