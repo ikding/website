@@ -86,7 +86,7 @@ Doing data mining on mining data at KoBold Metals.
 Stanford Engineering Ph.D.
 <br/>
 <br/>
-Interested in machine learning, Python, and climate change.
+Interested in intersection of machine learning, data science, and climate change.
 """
 
 DISQUS_SITENAME = "ikding"
