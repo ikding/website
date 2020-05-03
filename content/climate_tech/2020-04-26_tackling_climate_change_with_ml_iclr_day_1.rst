@@ -5,13 +5,14 @@ Tackling climate change with ML (ICLR Workshop 2020) - day 1
 :tags: climate_tech, data_science
 :slug: tackling-climate-change-with-ml-iclr-day-1
 :authors: I-Kang Ding
+:summary: Notes from day 1 (Main workshop) of ICLR Workshop - `Tackling Climate Change with Machine Learning <https://www.climatechange.ai/ICLR2020_workshop#schedule>`__ on 2020-04-26.
+
 
 .. image:: https://iclr.cc/static/admin/img/ICLR-logo.png
     :align: center
     :alt: iclr-conference-logo
 
-
-I attended day 1 (Main workshop) of ICLR Workshop - `Tackling Climate Change with Machine Learning <https://www.climatechange.ai/ICLR2020_workshop#schedule>`_ remotely on 2020-04-26. Below are the notes I took from the talks that I attended. Day 1 of the conference had a jam-packed schedule, but because of the time zone difference, I was only able to attend a small subset of the talk.
+I attended day 1 (Main workshop) of ICLR Workshop - `Tackling Climate Change with Machine Learning <https://www.climatechange.ai/ICLR2020_workshop#schedule>`__ remotely on 2020-04-26. Below are the notes I took from the talks that I attended. Day 1 of the conference had a jam-packed schedule, but because of the time zone difference, I was only able to attend a small subset of the talk.
 
 
 Panel: intersection of climate change and machine learning
@@ -101,6 +102,7 @@ Key takeaways:
 * Grants
 * Data Programs - especially global / geospatial program
 * Building open source software
+
 
 Part 1: ML for Climate Change
 =============================
