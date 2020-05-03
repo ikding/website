@@ -14,6 +14,13 @@ Tackling climate change with ML (ICLR Workshop 2020) - day 2
 
 Notes from day 2 (Energy Day) of ICLR Workshop - `Tackling Climate Change with Machine Learning <https://www.climatechange.ai/ICLR2020_workshop#schedule>`__ on 2020-04-27.
 
+The virtual conference spans five days. If you're interested, here are the notes I took for other days.
+
+* `Day 1 (Main Workshop) <{filename}../climate_tech/2020-04-26_tackling_climate_change_with_ml_iclr_day_1.rst>`_
+* `Day 3 (Agriculture, Forestry, and Other Land Use (AFOLU) Day) <{filename}../climate_tech/2020-04-28_tackling_climate_change_with_ml_iclr_day_3.rst>`_
+* `Day 4 (Climate Science and Adaptation Day) <{filename}../climate_tech/2020-04-29_tackling_climate_change_with_ml_iclr_day_4.rst>`_
+* `Day 5 (Cross-cutting Methods Day) <{filename}../climate_tech/2020-04-30_tackling_climate_change_with_ml_iclr_day_5.rst>`_
+
 
 Opportunities and Challenges for Machine Learning in the African Electricity Sector
 -----------------------------------------------------------------------------------
