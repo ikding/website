@@ -22,7 +22,7 @@ Science of climate change
 
 `IPCC (The Intergovernmental Panel on Climate Change) <https://www.ipcc.ch>`_ has put out numerous reports on climate change and its impact. Apart from that, I follow lots of climate scientist on twitter (see the "twitter" section below).
 
-If you're interested more broadly in the potential solutions to climate change, I highly recommend `Project Drawdown <https://www.drawdown.org>`_ - they have websites, books, and white papers that contains a wealth of information (mostly focused on mitigation).
+If you're interested more broadly in the potential solutions to climate change, I highly recommend `Project Drawdown <https://www.drawdown.org>`__ - they have websites, books, and white papers that contains a wealth of information (mostly focused on mitigation).
 
 
 Role of DS/ML on climate change
@@ -30,7 +30,7 @@ Role of DS/ML on climate change
 
 For those of you who are DS/ML professionals interested in understanding how we can help with climate change, this is a great paper that I always point to, written by who's who in AI/ML experts: `Tackling Climate Change with Machine Learning <https://arxiv.org/abs/1906.05433>`_. It is a pretty comprehensive paper that goes into numerous sectors in which DS / ML can make meaningful impact to climate change.
 
-One thing I wish the paper provide is a qualitative measure of potential impacts, like `Project Drawdown <https://www.drawdown.org>`_ does. But at least they provide some categorical flags on the solutions they proposed, which is helpful.
+One thing I wish the paper provide is a qualitative measure of potential impacts, like `Project Drawdown <https://www.drawdown.org>`__ does. But at least they provide some categorical flags on the solutions they proposed, which is helpful.
 
 .. image:: https://pbs.twimg.com/media/ERJxda7U8AYoPrn?format=jpg&name=medium
     :align: center
