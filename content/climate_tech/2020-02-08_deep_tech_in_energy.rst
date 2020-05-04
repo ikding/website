@@ -124,7 +124,8 @@ So, where does that leave us?
 
 .. image:: https://imgs.xkcd.com/comics/so_it_has_come_to_this.png
     :align: center
-    :alt: xkcd-it-has-come-to-this
+    :alt: xkcd-so-it-has-come-to-this
+    :target: https://xkcd.com/1022/
 
 I did not want this post to end on a note of defeatism. Rather, the purpose of this post is to highlight notable differences on the risk profile and resource requirements between software companies and deep-tech hardware companies in energy.
 
