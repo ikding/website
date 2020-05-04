@@ -7,9 +7,10 @@ Applying machine learning on climate change mitigation
 :authors: I-Kang Ding
 :summary: The machine learning breakthroughs for the past 10 years has been primarily focused on the bits world, and more and more industries are leveraging machine learning for their competitive advantage. On the other hand, the climate change issue is, inherently, a challenge in the atomic world. Therefore, if machine learning were to make an impact to climate change, it would have to render effects in the physical world. Having attended the ICLR Workshop on "Tackling Climate Change with Machine Learning" for the past five days, I want to organize my thoughts in this post on applying machine learning to the issue of climate change.
 
-.. image:: https://iclr.cc/static/admin/img/ICLR-logo.png
+.. image:: https://media.npr.org/assets/img/2017/11/22/earth-at-night-1_custom-95e0f2215185f02a86521c3b7db4681df85393b1-s1600-c85.jpg
     :align: center
-    :alt: iclr-conference-logo
+    :alt: nasa-earth-at-night
+    :target: https://www.npr.org/sections/thetwo-way/2017/11/22/565949539/earth-increasingly-looks-lit-up-at-night
 
 I attended 5 days of ICLR Workshop - `Tackling Climate Change with Machine Learning <https://www.climatechange.ai/ICLR2020_workshop>`__ remotely from 2020-04-26 to 2020-04-30. I was able to attend majority of the talks for the first day of the conference, and on and off throughout the rest of the conference. I'll use this post to share some of my general thoughts and observations on the topic of applying machine learning to help with climate change.
 
@@ -153,4 +154,4 @@ Whew! That was longer article than I planned to write, and thank you for reading
 
     We emphasize that machine learning is not a silver bullet. The applications we highlight are impactful, but no one solution will “fix” climate change. There are also many areas of action where ML is inapplicable, and we omit these entirely. Furthermore, technology alone is not enough – technologies that would address climate change have been available for years, but have largely not been adopted at scale by society. While we hope that ML will be useful in reducing the costs associated with climate action, humanity also must decide to act.
 
-I sincerely hope that more machine learning professionals will join the fight to solve the climate change, the problem of the 21st century. While COVID-19 has been an immediately pressing matter for the entire world in the past 4 months, climate change is a problem that has more everlasting, and we need all of world's brightest mind we can get!
+I sincerely hope that more machine learning professionals will join the fight to solve the climate change, the problem of the 21st century. While COVID-19 has been an immediately pressing matter for the entire world in the past 4 months, climate change is a problem that is even longer-lasting, and we need all of world's brightest mind we can get!
