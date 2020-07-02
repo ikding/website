@@ -59,9 +59,9 @@ Podcasts
 
 Below are the podcasts about climate tech that I listen to on a semi-regular basis.
 
-1. `The Energy Gang <https://www.greentechmedia.com/podcast/the-energy-gang>`_: a weekly audio digest on energy, cleantech & the environment from Greentech Media, mostly focused on the latest events, policy changes, and trends in the clean energy field. This is one of the most long-running podcast in this area (first episode aired in 2013). Hosted by `Stephen Lacey <https://twitter.com/Stphn_Lacey>`_, `Katherine Hamilton <https://twitter.com/CleanGridView>`_ and `Jigar Shah <https://twitter.com/JigarShahDC>`_.
+1. `The Energy Gang <https://www.greentechmedia.com/podcast/the-energy-gang>`_: a weekly audio digest on energy, cleantech & the environment from Greentech Media, mostly focused on the latest events, policy changes, and trends in the clean energy field. This is one of the most long-running podcast in this area (first episode aired in 2013). Hosted by `Stephen Lacey <https://twitter.com/Stphn_Lacey>`__, `Katherine Hamilton <https://twitter.com/CleanGridView>`_ and `Jigar Shah <https://twitter.com/JigarShahDC>`_.
 
-2. `The Interchange <https://www.greentechmedia.com/podcast/the-interchange>`_: a weekly podcast on the global energy transformation. More focused in a deep-dive of a particular topic per episode. Hosted by `Stephen Lacey <https://twitter.com/Stphn_Lacey>`_ and `Shayle Kann <https://twitter.com/shaylekann>`_.
+2. `The Interchange <https://www.greentechmedia.com/podcast/the-interchange>`_: a weekly podcast on the global energy transformation. More focused in a deep-dive of a particular topic per episode. Hosted by `Stephen Lacey <https://twitter.com/Stphn_Lacey>`__ and `Shayle Kann <https://twitter.com/shaylekann>`_.
 
 3. `My Climate Journey <https://www.myclimatejourney.co>`_: a podcast about one man's quest to better understand climate change and how to help, as told through interviews w/ experts on the front lines. This podcast interviews researchers, founders, investors in climate tech. It's hosted by `Jason Jacobs <https://twitter.com/jjacobs22>`_, and the podcast has a `slack room <https://www.myclimatejourney.co/slack>`_ that appears to have many climate-tech minded folks on there already. I know of many climate-focused investors and entrepreneurs are on the slack room.
 
