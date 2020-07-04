@@ -71,6 +71,7 @@ Many of the PhD's-turned-data scientists dealt with a lot of data analysis in gr
 
 My academic training has been in chemistry (undergrad) and materials science (PhD), and my research projects has always been very experimental-oriented – from synthesizing nanomaterials in undergrad, to fabrication and characterization of solar cells in grad school. That means in my own research, every single piece of data point are from hands-on experiments, all the way from experimental design, processing, fabrications, characterizations, measurements, to final interpretations of the result. A learning cycle from beginning to end can often take days or weeks, and because the data is so expensive, there isn't really a lot of requirements for large-volume data analysis skills. Most of the data I dealt with can fit comfortably in Excel. I dabbled a little bit with coding in MATLAB when working on courses or file input/outputs, but honestly, my coding / programming skills was limited when I finished my PhD. However, during my PhD, I laid good foundations to the soft skills that are quite valuable in industry, such as teamwork, communication skills, and project management. For example, in my last project in grad school, I initiated and maintained collaborations with 4 research teams in 2 continents, and led the project all the way from ideation to final publication. I also gave research talks in multiple international conferences.
 
+
 Industrial Experiences
 ======================
 
@@ -85,6 +86,7 @@ I found myself enjoying the data analysis part of my job a lot! The analogy I us
 With that said, I quickly found that the "old way" of doing things has a lot of room for improvement. When I started at the LED company, I was surprised to discover that the most commonly used software in data analysis (at least in R&D teams) is still Excel. There are some people who uses Minitab in the analysis, but both Excel and Minitab are inherently designed for "point-and-click" users, and provides only limited support for coding and automation. In carrying out the automation tasks, I initially was sticking with Excel VBA coding because (a) I already knew some VBA coding, and (b) it supports the best portability to other engineers since the output file is also an Excel file. However, it didn't take long for me to encounter the severe limitations of Excel Macro, both in terms of data processing and graph plotting.
 
 Also around this time, I became more aware of the buzz surrounding big data. Therefore, both because of job necessity and personal interest, I decided to spend time and pick up R statistical programming language and other open source tools that are out there. This is my starting point in the world of data science. From there, I took a lot of MOOC courses, attended a data science bootcamp, and finally making the transition as a data scientist. In the next section, I will layout the resources I have used in making this transition.
+
 
 Data Scientist Training Resources
 ---------------------------------
@@ -165,15 +167,15 @@ Social Networks in Job Search
 
 I employ several different social network sites in job search – this is not limited to data science, but applicable to technical jobs in general.  Here is how each social networks / website complement each other in my case:
 
-1. Indeed: you can set up job alerts here; this is a very good job aggregator, and you can set up the job alerts so that it will be delivered daily to your email. I set up alerts for "data scientist" jobs in San Francisco bay area, that would be a pretty wide net in itself. If you have companies that you are particularly interested in, you can set up company specific alerts such as: "Company:(Tesla) (Scientist OR Engineer) jobs".
+1. `Indeed <https://www.indeed.com>`_: you can set up job alerts here; this is a very good job aggregator, and you can set up the job alerts so that it will be delivered daily to your email. I set up alerts for "data scientist" jobs in San Francisco bay area, that would be a pretty wide net in itself. If you have companies that you are particularly interested in, you can set up company specific alerts such as: "Company:(Tesla) (Scientist OR Engineer) jobs".
 
-2. LinkedIn: I use LinkedIn to find connections after I narrow down on a company that I am interested in. From there, I try to get informational interview from insiders; if timing is right, I can also ask for job referrals.  See the section on "Importance of Networking and Connections", above.
+2. `LinkedIn <https://www.linkedin.com>`_: LinkedIn: I use LinkedIn to find connections after I narrow down on a company that I am interested in. From there, I try to get informational interview from insiders; if timing is right, I can also ask for job referrals.  See the section on "Importance of Networking and Connections", above.
 
-3. Glassdoor: Glassdoor let employees publish anonymous reviews of the employers. I use this website when I am doing research on the company that I am interested in, often before the information and on-site interviews. Check out both the Company Reviews and the Interviews to get to know people's experiences.
+3. `Glassdoor <https://www.glassdoor.com>`_: Glassdoor let employees publish anonymous reviews of the employers. I use this website when I am doing research on the company that I am interested in, often before the information and on-site interviews. Check out both the Company Reviews and the Interviews to get to know people's experiences.
 
-4. Hired.com: this site is mostly geared toward software engineers and data scientists. If you can get your profile approved, you will be able to enter a reverse auction where companies look at your profile, names a price for you before you start interviewing. I haven't used it myself.
+4. `Hired <https://hired.com>`_: this site is mostly geared toward software engineers and data scientists. If you can get your profile approved, you will be able to enter a reverse auction where companies look at your profile, names a price for you before you start interviewing. I haven't used it myself.
 
-5. AngelList: this is a job posting site that is more focused on startups. You can establish a profile there, and browse relevant job openings.
+5. `AngelList <https://angel.co>`_: this is a job posting site that is more focused on startups. You can establish a profile there, and browse relevant job openings.
 
 
 Types of Skill Sets and Job Functions in Data Science
@@ -261,6 +263,7 @@ Sample questions that I asked include:
 7. When can I expect to hear from you after this interview? – ask either the hiring manager or the HR this question to have a better sense about the timeline they make hiring decisions.
 
 Note that the interview is NOT the time to ask about salary and benefits package, stock options, etc. That is something you negotiate AFTER you have formally received the job offer. (There is a nice, short book in compensation negotiation called "Negotiating Your Salary: How To Make $1000 a Minute" (Chapman). Highly recommended read, especially if you think there will be offers coming.)
+
 
 Where Should You Work?
 ======================
