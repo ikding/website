@@ -5,7 +5,7 @@ Shotgun vs sniper rifle approaches in job search
 :tags: career, climate_tech, data_science
 :slug: shotgun-vs-sniper
 :authors: I-Kang Ding
-:summary: When I first started out with my job search years ago, I had started with the shotgun approach - scouring job boards for openings, applying for tens to hundreds of job postings online, and most of my applications receive no response whatsoever. Since then, I've been adopting a sniper-rifle approach in my job search. Here's what that may look like, and why it may be extra important in the lean years.
+:summary: Over the past few years, I have had the chance to mentor aspiring data scientists in their job search. In that process, I have also had opportunities to reflect on my own job search process. I realized that I've been conducting my own job search with a "sniper rifle" approach. Here's what that may look like, and why it may be extra important in the lean years.
 
 
 It's been almost five months since I started my current job, and it seemed like a lifetime ago. Back in February, COVID-19 was ravaging in China, but people in US were still `not sure if it's time to panic <https://www.nytimes.com/2020/02/13/reader-center/coronavirus-reporting.html>`_; `unemployment rate in the US were at 3.5% <https://www.bls.gov/opub/ted/2020/19-point-2-percent-of-the-unemployed-had-been-jobless-for-27-weeks-or-more-in-february-2020.htm>`_, matching its lowest level in more than 50 years; and the `stock market was hitting its historical highs <https://www.cnbc.com/2020/02/19/stock-market-wall-street-in-focus-amid-coronavirus-outbreak.html>`_.
