@@ -19,7 +19,7 @@ RELATIVE_URLS = True
 
 PATH = "content"
 
-TIMEZONE = "US/Eastern"
+TIMEZONE = "US/Pacific"
 DEFAULT_DATE_FORMAT = "%Y-%m-%d (%a)"
 
 DEFAULT_LANG = "en"
@@ -63,7 +63,7 @@ JINJA_ENVIRONMENT = {
     "extensions": ["jinja2.ext.i18n"],
 }
 PLUGIN_PATHS = ["pelican-plugins/"]
-PLUGINS = ["i18n_subsites", "readtime"]
+PLUGINS = ["i18n_subsites", "readtime", "embed_tweet"]
 
 # pelican-bootstrap3 custom options
 # CUSTOM_CSS = 'static/custom.css'

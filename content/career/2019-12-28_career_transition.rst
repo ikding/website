@@ -24,4 +24,5 @@ I am sure many of us would have loved to stay in the climate / clean tech area i
 
 I am happy to see investors having renewed their interests in this area, and new classes of clean tech 2.0 startups emerging. And I sincerely hope that this time, it will be different. In a way, the future of this planet depends on it.
 
-(Originally posted on twitter: https://twitter.com/ikding/status/1211143148304568320)
+(Originally posted on twitter)
+t#ikding/status/1211143148304568320
