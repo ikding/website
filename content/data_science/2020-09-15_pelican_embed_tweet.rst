@@ -5,8 +5,8 @@ Pelican Embed-Tweet Plugin
 :tags: data_science
 :slug: pelican-embed-tweet-plugin
 :authors: I-Kang Ding
-:summary: How to use pelican readtime plugin in Pelican static site generator
 
+In this article, I wrote about how to use pelican ``embed_tweet`` plugin in Pelican static site generator, which is useful for embedding tweet into your own blog posts, like so: t#ikding/status/1306120884646674438
 
 In the beginning of 2020, I started a goal of writing more professionally. I did not like the idea of putting my blog articles in pay-wall sites such as medium, so I decided to use my own static site generator and host my blog in GitHub pages.
 
@@ -37,7 +37,7 @@ Then, in the main body of my article, I can just highlight the tweet using the `
 
     This article is from t##ikding
 
-    And here is one of his tweets: t##ikding/status/1257316028305960962
+    And here is one of his tweets: t##ikding/status/1306120884646674438
 
     By the way, the suffix is ``t#``, not ``t##``. I added the extra ``#`` to stop embed-tweet from rendering the tweet.
 
@@ -47,4 +47,4 @@ The embed-tweet plugin will automatically convert it to an embedded tweet:
 
     This article is from t#ikding
 
-    And here is one of his tweets: t#ikding/status/1257316028305960962
+    And here is one of his tweets: t#ikding/status/1306120884646674438
