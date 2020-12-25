@@ -5,6 +5,7 @@ Happy Birthday Marian!
 :tags: misc
 :slug: happy-birthday-marian
 :authors: I-Kang Ding
+:status: draft
 
 
 Today is my wife Marian's birthday, and also her first birthday after she got her PhD in `Mental Health <https://www.jhsph.edu/departments/mental-health/>`_ from `Johns Hopkins University <https://www.jhu.edu>`_. I thought I'd use this chance to write something about her PhD journey, as seen from my ringside seat.
