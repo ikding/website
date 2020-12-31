@@ -1,0 +1,77 @@
+2020 Year in Review
+###################
+
+:date: 2020-12-31
+:tags: misc
+:slug: year-in-review-2020
+:authors: I-Kang Ding
+:status: draft
+
+
+Hello our friends and families // 哈囉大家,
+
+Can't believe that it is now the end of 2020! A lot has happened this year around the globe... so we're all glad that this year is now almost behind us! Pandemic aside, a lot has happened in our family in this memorable year. (The photo below was taken during our visit to Disney World in Orlando this January. It felt like ages ago now!)
+
+真不敢相信，2020年就這麼過了去了! 今天全球許多地方都被 COVID 給籠罩，所以能趕快過完這一年也好。COVID 以外，我們一家也發生了不少事呢! (底下這張照片是我們一家今年一月去佛羅里達的迪士尼樂園玩的照片，感覺已經是好久以前的事了...)
+
+.. image:: https://user-images.githubusercontent.com/7269845/103124877-0f16c800-463e-11eb-8f0f-09d7ad337d21.jpg
+    :align: center
+    :alt: family-in-disney
+    :width: 500 px
+
+
+After living in Maryland (DC suburbs) since 2015, our family relocated back to San Francisco Bay Area in August. Moving across the country during a pandemic is a scary thing, but we’re glad that we were able to complete the move while keeping everyone in the family healthy and safe in the process.
+
+我們一家在馬里蘭 (華盛頓 DC 郊區) 住了五年以後，今年夏天舉家搬回加州舊金山灣區。在 COVID 橫掃全美的時候搬家，心裡也是毛毛的，不過我們搬家的過程，全程都小心翼翼，所以應該沒有中獎。
+
+.. image:: https://user-images.githubusercontent.com/7269845/103124706-6ec0a380-463d-11eb-98a2-976da6620151.jpg
+    :align: center
+    :alt: maryland-home
+    :width: 400 px
+
+Ethan and Luke are now in 5th and 2nd grade, respectively. They got a few weeks of indoor soccer before the pandemic forced much of the soccer year to close down, but Ethan and Luke were glad that they got to play a sand soccer tournament with their respective teams in July. They have also enjoyed their new soccer club (Liverpool international academy) in the Bay Area even though the soccer practice is strictly no-contact right now.
+
+豆豆和卡卡現在已經是國小五年級和二年級了。他們年初還有機會踢了幾個禮拜的冬季室內足球，不過 COVID 三月開始以後，整年的足球季就沒得玩了。我們很慶幸七月搬家前，他們還有機會和馬里蘭州的隊友一起去踢沙灘足球的比賽。搬到加州以後，他們也很順利的找到很不錯的足球隊，而且雖然秋季沒有辦法比賽，但至少還可以練習。
+
+.. image:: https://user-images.githubusercontent.com/7269845/103124701-6a948600-463d-11eb-99c6-8946ace61563.jpg
+    :align: center
+    :alt: ocean-city
+    :width: 500 px
+
+As for school, Ethan and Luke both were both able to quickly adjust to online learning. Although definitely not ideal, we see how resilient they are to still manage to do their best and be engaged despite the circumstances!
+
+至於小孩上學方面，豆豆和卡卡兩個人適應遠距教學的速度和進度，都比我們原本預期的好。雖然遠距教學不是我們理想中的狀況，不過我們還是很欣慰，在這種情況下，我們的小孩還是很努力的跟的上學校的進度!
+
+As for the parents, we were very fortunate that both of us started new, fulfilling jobs this year, and we can do our jobs effectively from the comfort of our own home.
+
+`Marian finished her PhD degree from Johns Hopkins after 5 years <{filename}../misc/2020-09-27_happy_birthday_marian.rst>`_, and started her `new job at UCSF <https://careregistry.ucsf.edu/Marian-Tzuang>`_  as a research staff member in August. She is excited to be working on several projects related to addressing gaps in research participation, in particular, aging-related research, among Asian Americans and Pacific Islanders communities.
+
+我們兩個人今年在工作方面也有很大的轉變。我們兩個人都在今年換了新工作，而且非常幸運，工作都是在家就可以上班的類型。莊子今年夏天唸完了在 Johns Hopkins University 的博士班，然後今年八月 UCSF 上工當研究員，主要作的是和美國亞裔族群的老化相關研究。
+
+.. image:: https://user-images.githubusercontent.com/7269845/99352487-9448d900-2857-11eb-83bc-141c502b1d0e.jpg
+    :align: center
+    :alt: jhu-facebook-screenshot
+    :width: 400 px
+
+
+`I-Kang left his job at Capital One after close to 5 years <{filename}../career/2020-02-14_data_mining_mining_data.rst>`_, and started a new job at `KoBold Metals <https://www.koboldmetals.com>`__, a startup working on mineral exploration of battery materials (such as Cobalt) using data science. He is excited to be back to contributing on the solution of climate change again after a 5-year hiatus.
+
+小丁離開了他在 Capital One 的信用卡業五年的工作，加入了一個加州的小新創公司 - `KoBold Metals <https://www.koboldmetals.com>`__，想要結合資料科學和地質科學，在全世界各地找鋰電池相關的金屬礦脈，為電動車產業的發展作準備。他很開心，在中斷了五年以後，又回到了和氣候變遷的課題相關的工作。
+
+.. image:: https://user-images.githubusercontent.com/7269845/103124768-a4fe2300-463d-11eb-8ed6-36854b30d291.jpg
+    :align: center
+    :alt: kobold-office
+    :width: 400 px
+
+Last but certainly not the least, we have two new members in the Ding family! No, we did not have twins, if that’s what you’re thinking.  We adopted two sweet kittens, Teba and Mipha in early December through a matching program. We did not know in advance which two kittens will be matched with us, so it was like a blind date, but it was love at first sight. It took them no time to make our home their home, and we are so lucky and grateful to have them.
+
+最後 - 我們很開心的宣佈，今年我們家多了兩個成員! (不是雙胞胎，兩個小孩已經很夠我們忙的了 XD) 我們十二月初領養了兩隻小貓 - Teba 和 Mipha。這兩隻貓咪來我們家才幾個禮拜，就已經很融入我們的生活了!
+
+.. image:: https://user-images.githubusercontent.com/7269845/103124295-15a44000-463c-11eb-93e0-69b7c6e955a7.jpg
+    :align: center
+    :alt: kittens
+    :width: 400 px
+
+Hopefully by this time next year, COVID-19 will be in our rear view mirror.  Our warmest wishes to you all for a healthy, happy and prosperous new year.
+
+希望明年這個時候，COVID 的情況已經受到控制，大家又可以碰面、聚餐。祝福大家新年快樂!!
