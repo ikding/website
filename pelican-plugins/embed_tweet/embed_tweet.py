@@ -33,7 +33,14 @@ def embed_tweet(instance):
             '\\1<a href="https://twitter.com/\\3">@\\3</a>\\4',
             re.sub(
                 r"(^|[^/])(t)#(\w{1,15})/status/(\d+)\b",
-                '\\1<blockquote class="twitter-tweet" align="center"><a href="https://twitter.com/\\3/status/\\4">Tweet of \\3/\\4</a></blockquote>',
+                (
+                    # Check twitter API page for more customization options:
+                    # https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/guides/embedded-tweet-parameter-reference
+                    # This site is helpful too:
+                    # https://github.com/fundor333/pelican-advance-embed-tweet/blob/4b0f39dafb86c5d8b245a5bba2772621c6529f2e/pelican_advance_embed_tweet/advance_embed_tweet.py
+                    '\\1<blockquote class="twitter-tweet" align="center" data-conversation="none">'
+                    '<a href="https://twitter.com/\\3/status/\\4">Tweet of \\3/\\4</a></blockquote>'
+                ),
                 instance._content,
             ),
         )
