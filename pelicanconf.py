@@ -14,7 +14,7 @@ RELATIVE_URLS = True
 
 # Use this for publishing
 # pelican content -o ../ikding.github.io/ -s pelicanconf.py
-# SITEURL = 'https://ikding.github.io'
+# SITEURL = "https://ikding.github.io"
 # RELATIVE_URLS = False
 
 PATH = "content"
@@ -78,6 +78,11 @@ USE_FOLDER_AS_CATEGORY = True
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
+
+# This can be used to add favicon, which I'm not currently using
+# https://stackoverflow.com/questions/31270373/how-to-add-a-favicon-to-a-pelican-blog
+# STATIC_PATHS = ["extra/favicon.ico"]
+# EXTRA_PATH_METADATA = {"extra/favicon.ico": {"path": "favicon.ico"}}
 
 SHOW_ABOUTME = True
 AVATAR = "/images/profile.jpg"
